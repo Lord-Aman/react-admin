@@ -139,11 +139,11 @@ const navigationConfig = [
       //   children: [...MaterialUIComponentsNavigation]
       // },
       {
-        id: "Oftadeh - React Admin",
-        title: "Oftadeh - React Admin",
+        id: "Aman - React Admin",
+        title: "Anab - React Admin",
         type: "link",
         icon: "link",
-        url: "https://github.com/mohammadoftadeh/oftadeh-react-admin",
+        url: "https://github.com/Lord-Aman/react-admin",
         exact: true,
       },
     ],
